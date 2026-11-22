@@ -16,7 +16,7 @@ A Python application deployed on an AWS EC2 Ubuntu instance. It retrieves weathe
 
 **Technologies:** Python, AWS EC2, Linux, SQLite, SQL, Cron, Requests
 
-### ☁️ [AWS Inventory Report — Boto3](https://github.com/junnybonz-dotcom/cloud-engineering-architecture-journal/tree/main/boto3-inventory)
+### ☁️ [AWS Inventory Report — Boto3](https://github.com/junnybonz-dotcom/aws-inventory-report)
 
 A read-only AWS reporting tool that inventories S3 buckets and EC2 instances using Boto3. Includes AWS identity verification, pagination, and service error handling.
 
