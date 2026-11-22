@@ -8,6 +8,18 @@ I enjoy understanding how systems work, building practical tools, troubleshootin
 
 ---
 
+## Build Status
+
+[![AWS Inventory Report](https://github.com/junnybonz-dotcom/aws-inventory-report/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/junnybonz-dotcom/aws-inventory-report/actions/workflows/tests.yml)
+
+[![Weather Logger](https://github.com/junnybonz-dotcom/weather-logger-capstone/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/junnybonz-dotcom/weather-logger-capstone/actions/workflows/tests.yml)
+
+[![Log Scanner](https://github.com/junnybonz-dotcom/log-scanner-capstone/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/junnybonz-dotcom/log-scanner-capstone/actions/workflows/tests.yml)
+
+[![API Logger](https://github.com/junnybonz-dotcom/api-logger/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/junnybonz-dotcom/api-logger/actions/workflows/tests.yml)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌦️ [Weather Logger — Automated Data Pipeline](https://github.com/junnybonz-dotcom/weather-logger-capstone)
